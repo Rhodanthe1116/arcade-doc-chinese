@@ -6,6 +6,7 @@ module.exports = {
       'index',
       'step-01',
       'step-02',
+      'step-03'
     ],
   },
 };
